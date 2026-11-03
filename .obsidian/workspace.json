@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGENTS.md",
+                "file": "daily_logs/2026-07-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "2026-07-10"
             }
           }
         ]
@@ -187,21 +187,22 @@
   },
   "active": "09e90ec511873513",
   "lastOpenFiles": [
+    "daily_logs/2026-07-12.md",
+    "daily_logs/2026-07-15.md",
+    "daily_logs/2026-09-14.md",
     "daily_logs/2026-10-20.md",
-    "未命名.md",
     "AGENTS.md",
+    "未命名.md",
     "course_materials/lesson05_literature_search_and_research_direction.md",
     "course_materials/lesson04_recommender_systems_and_fair_experiments.md",
     "course_materials/lesson07_code_reading_reproduction_sasrec_notes.md",
     "course_materials/lesson02_python_tensor_recommender_training.md",
     "course_materials/lesson03_remote_gpu_sasrec_notes.md",
-    "daily_logs/2026-07-15.md",
     "daily_logs/2026-07-10.md",
     "knowledge_base/experiment_environment.md",
     "assignment/第三次课作业.md",
     "learning_plan.md",
     "assignment/lesson03_sasrec_smoke_demo/README.md",
-    "daily_logs/2026-07-12.md",
     "knowledge_base/recsys.md",
     "knowledge_base/python.md",
     "course_materials/lesson01_obsidian_github_notes_demo.md",
@@ -221,7 +222,6 @@
     "research_landscape/recsys_beginner_learning_path.md",
     "research_landscape/recsys_academic_map.md",
     "research_landscape/README.md",
-    "knowledge_base/math.md",
-    "daily_logs/2026-07-11.md"
+    "knowledge_base/math.md"
   ]
 }
